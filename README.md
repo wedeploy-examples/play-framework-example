@@ -1,3 +1,5 @@
+[![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/play-framework-example)
+
 # Play Framework
 
 A demo of [Play framework](https://www.playframework.com/) on [WeDeploy](https://wedeploy.com/).
