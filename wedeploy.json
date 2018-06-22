@@ -3,5 +3,10 @@
   "port": 9000,
   "env": {
     "APPLICATION_SECRET": "]Z2`xLBnw]?O6j1EprJ_?53x5H1xtiQdpuF<HoRb0sBEqcGR20s6<k4Uks/GGbRZ"
+  },
+  "healthCheck": {
+    "url": "localhost:9000",
+    "timeout": 30,
+    "startPeriod": 20
   }
 }
